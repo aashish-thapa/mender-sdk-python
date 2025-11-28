@@ -1,6 +1,6 @@
 # Mender SDK for Python
 
-A production-level Python SDK for interacting with the [Mender](https://mender.io) IoT OTA update platform.
+A Python SDK for interacting with the [Mender](https://mender.io) IoT OTA update platform.
 
 ## Features
 
